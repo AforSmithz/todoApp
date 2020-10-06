@@ -1,2 +1,2 @@
 # todoApp
-todo web aplication made in django
+todo web application made in django
